@@ -37,4 +37,4 @@ python rock_paper_scissors.py
 - Save high scores to a file
 
 ## Author
-Your Name - [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Areej Zahra - [LinkedIn](https://www.linkedin.com/in/areej-zahra-b43679237) | [GitHub](https://github.com/areejzahra-ai)
